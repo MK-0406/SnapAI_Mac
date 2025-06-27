@@ -73,7 +73,7 @@ python3 SnapAI.py
 1. Tesseract must be installed separately:
   
 ```bash
-brew install tesseract  # macOS
+brew install tesseract
 ```
 
 2. Make sure Tesseract is in your system PATH or edit SnapAI.py:
