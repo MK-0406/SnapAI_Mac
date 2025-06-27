@@ -32,7 +32,7 @@ cd ~/Desktop
 ### 3. Clone this Repository
 
 ```bash
-git clone https://github.com/yourusername/SnapAI.git
+git clone https://github.com/MK-0406/SnapAI_Mac.git
 cd SnapAI
 ```
 
