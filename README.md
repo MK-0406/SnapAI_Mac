@@ -79,6 +79,31 @@ brew install tesseract
 2. Make sure Tesseract is in your system PATH or edit SnapAI.py:
 
 ```python
-pytesseract.pytesseract.tesseract_cmd = '/opt/homebrew/bin/tesseract'  # for Apple Silicon
+pytesseract.pytesseract.tesseract_cmd = '/opt/homebrew/bin/tesseract'
 ```
+
+---
+
+## 📘 User Manual
+
+### 🖥️ Interface
+A floating window will appear with:
+- Welcome message
+- Scrollable response area
+- Start, Stop, and Quit buttons
+
+### ▶️ Start Monitoring
+Click Start to begin monitoring your Downloads folder. When a new screenshot is added:
+
+1. The image is scanned with OCR.
+2. Text is sent to the Groq AI.
+3. The panel displays the AI-generated response.
+   
+### ⏹️ Stop Monitoring
+Click Stop to stop watching for new screenshots.
+
+### ❌ Quit
+Click Quit to close the app.
+
+---
 
