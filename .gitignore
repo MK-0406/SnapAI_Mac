@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+
+# Logs and secrets
+snapai_log.txt
+.env
+
+# py2app build files
+build/
+dist/
+*.app
+*.dSYM
+
+# macOS & editor artifacts
+.DS_Store
+*.swp
+.idea/
+.vscode/
