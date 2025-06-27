@@ -33,7 +33,7 @@ cd ~/Desktop
 
 ```bash
 git clone https://github.com/MK-0406/SnapAI_Mac.git
-cd SnapAI
+cd SnapAI_Mac
 ```
 
 ### 4. Get a Groq API Key
