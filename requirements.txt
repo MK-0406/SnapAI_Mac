@@ -1,0 +1,7 @@
+PyQt5==5.15.11
+pillow==11.2.1
+pytesseract==0.3.13
+watchdog==6.0.0
+requests==2.32.4
+python-dotenv==1.1.1
+py2app==0.28.8
