@@ -37,15 +37,15 @@ cd SnapAI_Mac
 ```
 
 ### 4. Get a Groq API Key
-1. Go to https://console.groq.com/keys
-2. Sign up or log in with your account.
+1. Go to https://aistudio.google.com/app/apikey
+2. Sign up or log in with your Google account.
 3. Click "Create API Key"
-4. Copy the key (starts with gsk_...)
+4. Copy the key 
 
 ### 5. Create a `.env` file with your API key:
 
 ```bash
-echo "GROQ_API_KEY=your_groq_api_key_here" > .env
+echo "GOOGLE_API_KEY=your_google_api_key_here" > .env
 ```
 
 ### 6. Install dependencies:
