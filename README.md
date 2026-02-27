@@ -1,6 +1,6 @@
 # 📷 SnapAI
 
-**SnapAI** is a lightweight floating panel app for **macOS** that monitors your screenshots, extracts text using OCR, and sends it to the **Groq LLaMA 3 API** to generate intelligent answers.
+**SnapAI** is a lightweight floating panel app for **macOS** that monitors your screenshots, extracts text using OCR, and sends it to the **Gemini 2.5 Flash API** to generate intelligent answers.
 
 Perfect for answering quizzes, fill-in-the-blank questions, and MCQs automatically using screenshots.
 
@@ -10,7 +10,7 @@ Perfect for answering quizzes, fill-in-the-blank questions, and MCQs automatical
 
 - 📸 Automatically detects new screenshots from `~/Downloads`
 - 🧠 Extracts text using [Tesseract OCR](https://github.com/tesseract-ocr/tesseract)
-- 💬 Sends extracted text to Groq’s **LLaMA 3** model via API
+- 💬 Sends extracted text to Google's Gemini 2.5 Flash model via API
 - 🪟 Beautiful floating, draggable, semi-transparent UI
 - ✅ Buttons to Start / Stop / Quit
 - 📋 All logs saved to `~/snapai_log.txt`
