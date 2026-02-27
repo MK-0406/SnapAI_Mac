@@ -36,7 +36,7 @@ git clone https://github.com/MK-0406/SnapAI_Mac.git
 cd SnapAI_Mac
 ```
 
-### 4. Get a Groq API Key
+### 4. Get a Gemini API Key
 1. Go to https://aistudio.google.com/app/apikey
 2. Sign up or log in with your Google account.
 3. Click "Create API Key"
@@ -96,7 +96,7 @@ A floating window will appear with:
 Click Start to begin monitoring your Downloads folder. When a new screenshot is added:
 
 1. The image is scanned with OCR.
-2. Text is sent to the Groq AI.
+2. Text is sent to the Gemini AI.
 3. The panel displays the AI-generated response.
    
 ### ⏹️ Stop Monitoring
